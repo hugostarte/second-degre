@@ -1,0 +1,53 @@
+body{
+	background-image: url("fond1.jpg");
+	background-size: cover; 
+}
+#titre{
+	text-align:center;
+}
+.entree{
+	width:50px;
+	border-radius: 5px;
+	
+}
+#calculer{
+	width:60px;
+	border-radius: 5px;
+	background-color: #bbe2d1 ;
+	color:#247b72;
+}
+#bloc{
+	background-color: rgba(255,255,255, 0.5);
+	margin-left:30%;
+	margin-right:30%;
+	text-align:center;
+	border-radius: 12px;
+}
+#bloc1{
+	background-color: rgba(255,255,255, 0.5);
+	margin-left:10%;
+	margin-right:10%;
+	border-radius: 12px;
+}
+#titre1{
+	padding:15px;
+}
+#passol{
+	color:red;
+}
+#sol{
+	color:#1C7743;
+}
+#erreur{
+	color:#771C1C;
+}
+table
+{
+    border-collapse: collapse;
+	height: 100px;
+	width:200px;
+}
+td
+{
+    border: 1px solid black;
+}
